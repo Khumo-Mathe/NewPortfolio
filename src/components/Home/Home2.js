@@ -13,17 +13,16 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I’m a BSc Mathematics and Computer Science graduate with a strong interest in backend development, cloud infrastructure, and systems engineering. 
+                I enjoy building practical, scalable solutions using Python, C#, JavaScript, Linux, and cloud technologies, 
+                and I focus on writing clean, reliable, and well-structured code.
               <br />
               <br />
               I’m proficient in
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  JavaScript, CSharp, , Python, and cloud{" "}
                 </b>
               </i>
               — and I enjoy working across both backend and frontend stacks.
@@ -33,10 +32,10 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Web Applications, software engineering,{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              and exploring new ways to mathematics and  systems.
               <br />
               <br />
               Whenever possible, I love building projects with
